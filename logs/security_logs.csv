@@ -1,51 +1,51 @@
 Timestamp,Event
-2025-10-13 23:34:04,Health check OK for service on 192.168.111.232 at 2025-10-13 23:34:04
-2025-10-21 09:46:35,User Roberto logon successful at 2025-10-21 09:46:35
-2025-10-15 15:50:02,User Roberto checked mailbox at 2025-10-15 15:50:02
-2025-10-10 17:14:05,Usuário Miguel acessou a intranet às 2025-10-10 17:14:05
-2025-10-10 14:16:17,Usuário Miguel acessou a intranet às 2025-10-10 14:16:17
-2025-10-16 15:39:38,Connection established from 108.189.69.189 to service port 80 at 2025-10-16 15:39:38
-2025-10-22 21:34:26,Health check OK for service on 192.168.3.129 at 2025-10-22 21:34:26
-2025-10-19 21:09:53,User Pedro checked mailbox at 2025-10-19 21:09:53
-2025-10-17 01:46:02,User Luiza opened file report.docx at 2025-10-17 01:46:02
-2025-10-14 03:21:22,Usuário Carol acessou a intranet às 2025-10-14 03:21:22
-2025-10-22 13:16:17,User Luiza opened file report.docx at 2025-10-22 13:16:17
-2025-10-10 07:23:59,Health check OK for service on 126.57.113.25 at 2025-10-10 07:23:59
-2025-10-22 10:41:13,Connection established from 174.37.229.207 to service port 80 at 2025-10-22 10:41:13
-2025-10-15 03:07:14,Failed login attempt detected from IP 192.168.148.63
-2025-10-18 05:34:35,Usuário Miguel acessou a intranet às 2025-10-18 05:34:35
-2025-10-12 14:57:10,User Luiza logon successful from IP 192.168.122.98 at 2025-10-12 14:57:10
-2025-10-19 19:22:52,Scheduled backup completed on host 192.168.57.137 at 2025-10-19 19:22:52
-2025-10-15 16:09:01,Sistema iniciou serviço de atualização às 2025-10-15 16:09:01
-2025-10-16 02:54:39,Usuário Ana acessou a intranet às 2025-10-16 02:54:39
-2025-10-13 11:46:20,User Pedro checked mailbox at 2025-10-13 11:46:20
-2025-10-13 11:52:36,User Roberto logon successful at 2025-10-13 11:52:36
-2025-10-20 17:18:21,Connection established from 192.168.246.94 to service port 80 at 2025-10-20 17:18:21
-2025-10-19 23:39:15,Escalação de privilégio detectada para o usuário Matheus
-2025-10-21 22:36:14,User Luiza opened file report.docx at 2025-10-21 22:36:14
-2025-10-22 07:40:10,Sistema iniciou serviço de atualização às 2025-10-22 07:40:10
-2025-10-16 02:07:31,Usuário João acessou a intranet às 2025-10-16 02:07:31
-2025-10-15 15:28:03,User Miguel logon successful at 2025-10-15 15:28:03
-2025-10-17 23:32:44,Connection established from 145.12.156.219 to service port 80 at 2025-10-17 23:32:44
-2025-10-17 09:29:23,User Carol opened file report.docx at 2025-10-17 09:29:23
-2025-10-16 23:23:43,Service apache started on 189.153.222.166 at 2025-10-16 23:23:43
-2025-10-10 19:58:06,User Pedro checked mailbox at 2025-10-10 19:58:06
-2025-10-11 18:40:30,Usuário Carol acessou a intranet às 2025-10-11 18:40:30
-2025-10-11 16:23:39,User Carol checked mailbox at 2025-10-11 16:23:39
-2025-10-15 04:15:43,Health check OK for service on 43.138.133.8 at 2025-10-15 04:15:43
-2025-10-16 20:46:09,Connection established from 192.168.9.187 to service port 80 at 2025-10-16 20:46:09
-2025-10-18 16:16:18,Scheduled backup completed on host 176.172.249.57 at 2025-10-18 16:16:18
-2025-10-11 05:25:55,User Natalia checked mailbox at 2025-10-11 05:25:55
-2025-10-13 15:49:12,User Miguel logon successful at 2025-10-13 15:49:12
-2025-10-14 12:43:37,Connection established from 192.168.104.198 to service port 80 at 2025-10-14 12:43:37
-2025-10-22 10:28:55,User Pedro logon successful at 2025-10-22 10:28:55
-2025-10-10 23:18:12,Connection established from 192.168.241.227 to service port 80 at 2025-10-10 23:18:12
-2025-10-22 15:24:59,Usuário Natalia acessou a intranet às 2025-10-22 15:24:59
-2025-10-13 06:10:55,Connection established from 92.82.100.248 to service port 80 at 2025-10-13 06:10:55
-2025-10-23 12:29:01,User Carlos opened file report.docx at 2025-10-23 12:29:01
-2025-10-20 19:22:57,Health check OK for service on 192.168.156.15 at 2025-10-20 19:22:57
-2025-10-11 16:10:34,Connection established from 192.168.27.184 to service port 80 at 2025-10-11 16:10:34
-2025-10-23 01:12:59,Usuário Pedro acessou a intranet às 2025-10-23 01:12:59
-2025-10-13 14:28:16,User Roberto logon successful from IP 192.168.151.173 at 2025-10-13 14:28:16
-2025-10-21 04:06:11,Connection established from 192.168.164.165 to service port 80 at 2025-10-21 04:06:11
-2025-10-20 20:18:00,User Miguel logon successful at 2025-10-20 20:18:00
+2025-10-19 01:41:48,Connection established from 192.168.61.128 to service port 80 at 2025-10-19 01:41:48
+2025-10-19 09:50:37,Connection established from 114.46.19.241 to service port 80 at 2025-10-19 09:50:37
+2025-10-23 09:19:22,User Ana opened file report.docx at 2025-10-23 09:19:22
+2025-10-11 15:16:42,Sistema iniciou serviço de atualização às 2025-10-11 15:16:42
+2025-10-20 11:37:51,User Luiza logon successful at 2025-10-20 11:37:51
+2025-10-20 23:30:59,User Natalia logon successful from IP 192.168.210.229 at 2025-10-20 23:30:59
+2025-10-14 15:34:46,Service apache started on 192.168.13.166 at 2025-10-14 15:34:46
+2025-10-15 06:55:14,User Miguel logon successful at 2025-10-15 06:55:14
+2025-10-17 18:48:55,User Thais checked mailbox at 2025-10-17 18:48:55
+2025-10-14 05:07:32,User Pedro logon successful at 2025-10-14 05:07:32
+2025-10-17 08:48:09,Usuário Rafael acessou a intranet às 2025-10-17 08:48:09
+2025-10-10 16:35:17,Sistema iniciou serviço de atualização às 2025-10-10 16:35:17
+2025-10-10 19:39:27,Service apache started on 192.168.208.166 at 2025-10-10 19:39:27
+2025-10-11 00:13:53,User João logon successful at 2025-10-11 00:13:53
+2025-10-10 19:18:31,User Pedro opened file report.docx at 2025-10-10 19:18:31
+2025-10-16 19:03:51,User Pedro logon successful from IP 192.168.54.55 at 2025-10-16 19:03:51
+2025-10-16 16:42:47,User Carol logon successful from IP 192.168.110.252 at 2025-10-16 16:42:47
+2025-10-16 17:10:47,Connection established from 128.102.32.136 to service port 80 at 2025-10-16 17:10:47
+2025-10-16 22:10:10,Health check OK for service on 165.131.114.228 at 2025-10-16 22:10:10
+2025-10-18 02:48:30,User Natalia checked mailbox at 2025-10-18 02:48:30
+2025-10-11 08:45:38,Usuário Carlos acessou a intranet às 2025-10-11 08:45:38
+2025-10-17 08:20:22,Service apache started on 192.168.92.220 at 2025-10-17 08:20:22
+2025-10-10 18:35:52,Health check OK for service on 60.17.113.130 at 2025-10-10 18:35:52
+2025-10-20 16:17:44,Scheduled backup completed on host 185.248.206.37 at 2025-10-20 16:17:44
+2025-10-21 22:08:59,Health check OK for service on 192.168.226.76 at 2025-10-21 22:08:59
+2025-10-21 05:24:52,Scheduled backup completed on host 77.232.148.14 at 2025-10-21 05:24:52
+2025-10-10 19:18:34,Usuário Maria acessou a intranet às 2025-10-10 19:18:34
+2025-10-10 15:09:30,Scheduled backup completed on host 192.168.251.62 at 2025-10-10 15:09:30
+2025-10-16 12:12:15,User Carlos logon successful from IP 14.42.31.37 at 2025-10-16 12:12:15
+2025-10-23 09:31:20,User Pedro checked mailbox at 2025-10-23 09:31:20
+2025-10-14 01:35:05,Health check OK for service on 192.168.23.234 at 2025-10-14 01:35:05
+2025-10-12 04:58:27,Connection established from 164.224.5.246 to service port 80 at 2025-10-12 04:58:27
+2025-10-16 15:22:05,Alteração de privilégio não autorizada para Pedro
+2025-10-14 23:26:44,Health check OK for service on 192.168.236.21 at 2025-10-14 23:26:44
+2025-10-15 07:55:24,Sistema iniciou serviço de atualização às 2025-10-15 07:55:24
+2025-10-17 17:24:38,User Roberto opened file report.docx at 2025-10-17 17:24:38
+2025-10-22 05:14:45,Sistema iniciou serviço de atualização às 2025-10-22 05:14:45
+2025-10-12 21:08:41,Service apache started on 192.168.198.100 at 2025-10-12 21:08:41
+2025-10-18 15:24:56,User João logon successful from IP 192.168.103.106 at 2025-10-18 15:24:56
+2025-10-21 11:04:26,User Carlos opened file report.docx at 2025-10-21 11:04:26
+2025-10-10 07:59:14,Usuário Carol acessou a intranet às 2025-10-10 07:59:14
+2025-10-10 03:17:20,User Thais logon successful from IP 192.168.232.236 at 2025-10-10 03:17:20
+2025-10-15 03:37:51,User Thais logon successful at 2025-10-15 03:37:51
+2025-10-20 23:05:55,User Roberto opened file report.docx at 2025-10-20 23:05:55
+2025-10-16 09:59:41,Scheduled backup completed on host 192.168.116.249 at 2025-10-16 09:59:41
+2025-10-11 20:39:54,User Maria logon successful at 2025-10-11 20:39:54
+2025-10-16 01:12:41,Health check OK for service on 15.95.229.29 at 2025-10-16 01:12:41
+2025-10-10 18:03:37,Escalação de privilégio detectada para o usuário Pedro
+2025-10-20 13:11:02,Connection established from 192.168.18.50 to service port 80 at 2025-10-20 13:11:02
+2025-10-22 20:33:10,Connection established from 192.168.56.189 to service port 80 at 2025-10-22 20:33:10
